@@ -4,7 +4,7 @@
 
     <groupId>com.jfrog.test</groupId>
     <artifactId>maven-simple</artifactId>
-    <version>1.32-SNAPSHOT</version>
+    <version>1.32</version>
     <packaging>jar</packaging>
 
     <name>maven-simple</name>
